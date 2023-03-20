@@ -1,0 +1,8 @@
+G:\C#\CalculatorSwitch\CalculatorSwitch\obj\Debug\CalculatorSwitch.csproj.AssemblyReference.cache
+G:\C#\CalculatorSwitch\CalculatorSwitch\obj\Debug\CalculatorSwitch.csproj.SuggestedBindingRedirects.cache
+G:\C#\CalculatorSwitch\CalculatorSwitch\obj\Debug\CalculatorSwitch.csproj.CoreCompileInputs.cache
+G:\C#\CalculatorSwitch\CalculatorSwitch\bin\Debug\CalculatorSwitch.exe.config
+G:\C#\CalculatorSwitch\CalculatorSwitch\bin\Debug\CalculatorSwitch.exe
+G:\C#\CalculatorSwitch\CalculatorSwitch\bin\Debug\CalculatorSwitch.pdb
+G:\C#\CalculatorSwitch\CalculatorSwitch\obj\Debug\CalculatorSwitch.exe
+G:\C#\CalculatorSwitch\CalculatorSwitch\obj\Debug\CalculatorSwitch.pdb
